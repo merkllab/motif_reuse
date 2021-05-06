@@ -1,7 +1,7 @@
 # Supplementary Data
 This repository contains supplemantary data for the publication 
 
-"Evidence for the preferential reuse of sub-domain motifs in primordial protein folds"
+"Evidence for the preferential reuse of sub-domain motifs in primordial protein folds".
 
 DOI: 10.1002/prot.26089
 
